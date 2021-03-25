@@ -1,2 +1,2 @@
-# Deep Reinforcement Learning On A Virtual Reality Videogame
-## project of Computer Graphics and 3D
+# Deep Reinforcement Learning on Virtual Reality Videogame
+## Project of Computer Graphics and 3D
