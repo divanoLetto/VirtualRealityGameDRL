@@ -5,7 +5,5 @@ The goal of this project is to create a video game, using the Unity graphics eng
 
 <img src="https://github.com/divanoLetto/VRgameUni/blob/master/Images/presentazione_hd.png" width="100%" height="100%">
 
-For more details read the document *VRGameRelazione.pdf*.
-
 ## How to Play
 Download the folder and unpack the .rar files in *GameExecutable* directory, ther run *MlAgentsTest.exe*.
