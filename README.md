@@ -30,4 +30,4 @@ Download the folder and unpack the .rar files in *GameExecutable* directory, the
 
 ---
 
-<img src="[https://your-image-url.type](https://github.com/divanoLetto/Virtual_Reality_Game_DRL/blob/master/Images/videoVrGame.gif)" width="600">
+<img src="https://github.com/divanoLetto/Virtual_Reality_Game_DRL/blob/master/Images/videoVrGame.gif" width="100" height="100">
