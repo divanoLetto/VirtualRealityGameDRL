@@ -26,4 +26,8 @@ The goal of this project is to create a video game, using the Unity graphics eng
 ## How to Play
 Download the folder and unpack the .rar files in *GameExecutable* directory, ther run *MlAgentsTest.exe*.
 
-![Alt Text](https://github.com/divanoLetto/Virtual_Reality_Game_DRL/blob/master/Images/videoVrGame.gif width="60%")
+![Alt Text](https://github.com/divanoLetto/Virtual_Reality_Game_DRL/blob/master/Images/videoVrGame.gif)
+
+---
+
+<img src="[https://your-image-url.type](https://github.com/divanoLetto/Virtual_Reality_Game_DRL/blob/master/Images/videoVrGame.gif)" width="600">
