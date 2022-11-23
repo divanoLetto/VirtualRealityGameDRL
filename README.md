@@ -16,7 +16,7 @@ Details about the implementation, training, various types of enemies and the obt
 
 ## Installation
 
-The project is already in executable format (.exe) for Windows operating systems. It requires a virtual reality device for the game experience to work properly.
+The project is already in executable format (.exe) for Windows operating systems. It requires a virtual reality device for the game experience to work properly. It was built through the Unity development platform for VR applications.
 
 
 The goal of this project is to create a video game, using the Unity graphics engine, that is compatible with the use of virtual reality platforms such as the Oculus Rift device. For this purpose, in addition to modeling the game environment and its dynamics, agents have been created, which operate as opponents for the player, both through classic Artificial Intelligence schemes and through Deep Reinforcement Learning.
