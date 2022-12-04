@@ -8,7 +8,7 @@
 
 ## Overview 
 
-Do you want to learn the way of the sword? The experience of **VR-The Way of the Sword** is a revenge story, like the best martial arts films. Defend the castle from enemy hordes, avenge your comrades and defeat the final boss. Use your swordsmanship and hand-forming runic signs to unleash devastating magic to face your opponents.
+Do you want to learn the way of the sword? The experience of **VR-The Way of the Sword** is a revenge story, like the best martial arts movies. Defend the castle from enemy hordes, avenge your comrades and defeat the final boss. Use your swordsmanship and hand-forming runic signs to unleash devastating magic to face your opponents.
 
 In this game you will face various types of enemies with increasing difficulty and increasing intelligence. The opponents' **AIs** were obtained through **reinforcement learning**: each character ran thousands of combat simulations against himself or his previous versions to hone his skills.
 Details about the implementation, training, various types of enemies and the obtained results can be found in the `docs` folder.
